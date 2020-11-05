@@ -1,0 +1,146 @@
+.resumepad{
+    padding-left: 3rem;
+    font-family: 'Montserrat-light', sans-serif;
+    padding: 6px 0px 6px;
+    margin-left: 16px ;
+}
+.navbarlinks{
+    text-align: right;
+    
+}
+.nav-link{
+    padding: 0 15px;
+}
+.top-container{
+    padding: 7% 16% 7% 20%;
+    
+}
+.profilepic{
+    position: relative ;
+    float: right;
+    width: 100%;
+    height: auto;
+    border-radius: 50%!important;
+}    
+.introme{
+    text-align: center;
+    padding: 40% 20% 40% 20%;
+}
+.intro{
+    font-weight: 300;
+    line-height: 1.2;
+    font-size: 5rem;
+    text-align: left;
+    padding-top: 13.5%;
+    font-family: 'Poppins', sans-serif;
+}
+.sub-intro{
+    
+    font-size: 1.5rem;
+    font-family: 'Montserrat-light', sans-serif;
+    color:#474443;
+
+}
+h1{
+    
+    text-align: center;
+}
+img{
+    vertical-align: middle;
+    border-style: none;
+}
+.display{
+    font-family:"poppins",sans-serif;
+    line-height: 1.2;
+    font-size: 3.5rem;
+    font-weight: 300;
+    padding:3% 15% 0% 15% ;
+}
+
+#top-container{
+    margin-bottom: 5rem;
+    padding-top: 5%;
+}
+.bold-text{
+    padding-left: 30%;
+    font-weight: 700;
+    font-size: 2.5rem;
+    padding-top: 7%;
+}
+.par{
+    
+    padding-left: 30%;
+    
+}
+.social-container{
+    padding-left: 30%;
+    
+}
+.socials{
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.progress-pad{
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.preogressbar-text{
+    line-height: 2 ;
+}
+h3{
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin: 0px;
+    color: #111;
+    padding-left: 10px;
+}
+.tech-icon{
+    font-weight: 300;
+    margin: 0;
+    padding: 0;
+    padding-left: 0.5rem;
+    line-height: 2;
+    font-size: 20px;
+    color: #111;
+}
+.wtf{
+    margin-bottom: 30px;
+}
+.tech-icon-p{
+    height: 25px;
+    float: left;
+    padding-right: 10px;
+
+}
+.lol{
+    padding:3% 15% 0% 15% ;
+}
+.displayg{
+    font-family:"Montserrat",sans-serif;
+    line-height: 1;
+    font-size: 2rem;
+    font-weight: 250;
+    padding:15px 15% 0% 15% ;
+
+}
+#middle-container-2{
+    padding-top: 7%;
+    padding-bottom: 10%;
+}
+.displayt{
+    font-family:"Montserrat",sans-serif;
+    line-height: 1;
+    font-size: 1.25rem;
+    font-weight: 250;
+    padding:15px 20% 0% 15% ;}
+
+body{
+    max-width: 100%;
+    overflow-x: hidden;
+}   
+#middle-container-3{
+    padding-bottom: 7%;
+}    
